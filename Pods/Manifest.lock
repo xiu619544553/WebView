@@ -1,0 +1,28 @@
+PODS:
+  - FLEX (3.0.0)
+  - IQKeyboardManager (6.5.5)
+  - JLLogEncoding (0.0.3)
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - FLEX (= 3.0.0)
+  - IQKeyboardManager
+  - JLLogEncoding
+  - Masonry
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - FLEX
+    - IQKeyboardManager
+    - JLLogEncoding
+    - Masonry
+
+SPEC CHECKSUMS:
+  FLEX: d66c759bce0f6ebbbf472c742380874d846f2883
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  JLLogEncoding: 8a81b9e29e3e8f613ac2010a7924359be7bb6f1a
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: f8702a2d9db6cb89095991749ee79961828bc324
+
+COCOAPODS: 1.9.1
